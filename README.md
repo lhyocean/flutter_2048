@@ -2,6 +2,10 @@
 
 本项目是flutter 编写的一个2048项目，具有调节level 功能，是在linuxsong 的基础上增加的
 
+
+![下载链接](https://images.gitee.com/uploads/images/2019/0122/163457_788bfd27_926499.png "QRCode_258.png")
+
+
 thanks https://github.com/linuxsong/game2048
 
 
