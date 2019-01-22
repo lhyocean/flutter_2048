@@ -10,5 +10,4 @@ thanks https://github.com/linuxsong/game2048
 
 
 ##### 截图
-<img src="https://images.gitee.com/uploads/images/2019/0121/184956_959bca00_926499.png" width="300px">![哈哈哈](https://images.gitee.com/uploads/images/2019/0121/190117_9a6ed6a1_926499.jpeg "事的")
-![截图](https://images.gitee.com/uploads/images/2019/0121/190041_bce97ab8_926499.jpeg "Screenshot_2.jpg")![截图](https://images.gitee.com/uploads/images/2019/0121/190117_9a6ed6a1_926499.jpeg "Screenshot_3.jpg")
+![![![输入图片说明](https://images.gitee.com/uploads/images/2019/0122/163851_c22bfde9_926499.png "WechatIMG43.png")](https://images.gitee.com/uploads/images/2019/0122/163841_958dc690_926499.png "WechatIMG42.png")](https://images.gitee.com/uploads/images/2019/0122/163821_c16837c3_926499.png "WechatIMG41.png")
